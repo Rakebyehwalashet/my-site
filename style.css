@@ -1,0 +1,128 @@
+
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+.top{
+    background-color: #EAF6F6;
+    position: relative;
+ 
+}
+.ucloud{
+    position: absolute;
+    top: 50px;
+    right: 280px;
+}
+.bcloud{
+    position: absolute;
+    left: 220px;
+}
+hr{
+    border-style: dotted;
+    border-width: 6px;
+    border-color: #EAF6F6;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+h1{
+    color:  #66BFBF;
+    margin: 0;
+    padding-top: 150px;
+    font-size: 5rem; 
+    font-family: 'Sacramento', cursive; 
+}
+h2{
+    color:  #66BFBF;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+h3{
+    color:  #66BFBF;
+
+}
+.p{
+    width: 40%;
+
+}
+.pic{
+    width:15%;
+    margin:70px auto 0 auto;
+}
+.myskill{
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    padding: 70px;
+    margin: auto;
+    text-align: left;
+}
+p{
+    line-height: 2;
+    margin: auto;
+    
+}
+.pp{
+    padding: 30px;
+    width: 40%;
+}
+
+.web{
+
+ width: 30%;
+ float: left;
+ padding-right: 15px;
+
+}
+.mic{
+   width: 30%;
+   float: right;
+   padding-left: 15px;
+}
+.contact{
+    margin: 100px;
+
+}
+
+.bottom{
+    background-color: #66BFBF;
+    padding: 50px;
+}
+.fotter{
+    padding-top: 20px;
+    color: #EAF6F6;
+    font-size: 10px;
+}
+a{
+    padding: 0 10px;
+    text-decoration: none;
+}
+.testbutton {
+
+    font-family: arial;
+    color: #14396A !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #7CACDE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 25px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 10px;
+    border: 2px solid #3866A3;
+    background: #30A8EE;
+    background: linear-gradient(top,  #9A51EE,  #65CFB6);
+    background: -ms-linear-gradient(top,  #9A51EE,  #65CFB6);
+    background: -webkit-gradient(linear, left top, left bottom, from(#9A51EE), to(#65CFB6));
+    background: -moz-linear-gradient(top,  #9A51EE,  #65CFB6);
+  }
+  .testbutton:hover {
+    color: #14396A !important;
+    background: #70CFB9;
+    background: linear-gradient(top,  #468CCF,  #EE77CE);
+    background: -ms-linear-gradient(top,  #468CCF,  #EE77CE);
+    background: -webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#EE77CE));
+    background: -moz-linear-gradient(top,  #468CCF,  #EE77CE);
+  }
